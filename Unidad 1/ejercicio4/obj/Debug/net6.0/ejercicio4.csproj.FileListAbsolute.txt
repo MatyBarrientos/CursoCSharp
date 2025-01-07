@@ -1,0 +1,14 @@
+/media/barry/Datos/Estudios/Curso Maxi Programa/Curso C# N1/ejercicio4/bin/Debug/net6.0/ejercicio4
+/media/barry/Datos/Estudios/Curso Maxi Programa/Curso C# N1/ejercicio4/bin/Debug/net6.0/ejercicio4.deps.json
+/media/barry/Datos/Estudios/Curso Maxi Programa/Curso C# N1/ejercicio4/bin/Debug/net6.0/ejercicio4.runtimeconfig.json
+/media/barry/Datos/Estudios/Curso Maxi Programa/Curso C# N1/ejercicio4/bin/Debug/net6.0/ejercicio4.dll
+/media/barry/Datos/Estudios/Curso Maxi Programa/Curso C# N1/ejercicio4/bin/Debug/net6.0/ejercicio4.pdb
+/media/barry/Datos/Estudios/Curso Maxi Programa/Curso C# N1/ejercicio4/obj/Debug/net6.0/ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+/media/barry/Datos/Estudios/Curso Maxi Programa/Curso C# N1/ejercicio4/obj/Debug/net6.0/ejercicio4.AssemblyInfoInputs.cache
+/media/barry/Datos/Estudios/Curso Maxi Programa/Curso C# N1/ejercicio4/obj/Debug/net6.0/ejercicio4.AssemblyInfo.cs
+/media/barry/Datos/Estudios/Curso Maxi Programa/Curso C# N1/ejercicio4/obj/Debug/net6.0/ejercicio4.csproj.CoreCompileInputs.cache
+/media/barry/Datos/Estudios/Curso Maxi Programa/Curso C# N1/ejercicio4/obj/Debug/net6.0/ejercicio4.dll
+/media/barry/Datos/Estudios/Curso Maxi Programa/Curso C# N1/ejercicio4/obj/Debug/net6.0/refint/ejercicio4.dll
+/media/barry/Datos/Estudios/Curso Maxi Programa/Curso C# N1/ejercicio4/obj/Debug/net6.0/ejercicio4.pdb
+/media/barry/Datos/Estudios/Curso Maxi Programa/Curso C# N1/ejercicio4/obj/Debug/net6.0/ejercicio4.genruntimeconfig.cache
+/media/barry/Datos/Estudios/Curso Maxi Programa/Curso C# N1/ejercicio4/obj/Debug/net6.0/ref/ejercicio4.dll

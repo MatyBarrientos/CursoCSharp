@@ -1,0 +1,130 @@
+# Ayuda Memoria de Sintaxis Básica en C#
+
+## Declaración de Variables
+```csharp
+// Declaración y asignación de variables
+int numero = 10;         // Entero
+float decimalPequeno = 5.5f; // Decimal simple
+double decimalGrande = 10.99; // Decimal doble
+char caracter = 'A';      // Carácter
+string texto = "Hola, mundo!"; // Cadena de texto
+bool esVerdadero = true;   // Booleano
+
+// Declaración sin asignación inicial
+int otroNumero;
+otroNumero = 20; // Asignación posterior
+```
+
+## Condicionales
+```csharp
+if (condicion)
+{
+    // Código si la condición es verdadera
+}
+else if (otraCondicion)
+{
+    // Código si otraCondicion es verdadera
+}
+else
+{
+    // Código si ninguna condición anterior se cumple
+}
+
+// Ejemplo
+int edad = 20;
+if (edad >= 18)
+{
+    Console.WriteLine("Eres mayor de edad.");
+}
+else
+{
+    Console.WriteLine("Eres menor de edad.");
+}
+```
+
+## Ciclos
+### Ciclo For
+```csharp
+for (int i = 0; i < 10; i++)
+{
+    Console.WriteLine("Iteración: " + i);
+}
+```
+
+### Ciclo While
+```csharp
+int contador = 0;
+while (contador < 5)
+{
+    Console.WriteLine("Contador: " + contador);
+    contador++;
+}
+```
+
+### Ciclo Do-While
+```csharp
+int numero;
+do
+{
+    Console.WriteLine("Introduce un número mayor a 0:");
+    numero = Convert.ToInt32(Console.ReadLine());
+} while (numero <= 0);
+```
+
+## Proposiciones Lógicas
+### Operadores Lógicos
+```csharp
+&& // AND: Devuelve true si ambas condiciones son verdaderas
+|| // OR: Devuelve true si al menos una condición es verdadera
+!  // NOT: Invierte el valor de verdad
+```
+
+### Ejemplo
+```csharp
+bool esAdulto = true;
+bool tieneIdentificacion = false;
+
+if (esAdulto && tieneIdentificacion)
+{
+    Console.WriteLine("Puede entrar.");
+}
+else
+{
+    Console.WriteLine("No puede entrar.");
+}
+```
+
+## Entrada y Salida de Datos
+### Salida de Datos
+```csharp
+Console.WriteLine("Hola, mundo!");
+Console.Write("Sin salto de línea.");
+```
+
+### Entrada de Datos
+```csharp
+Console.WriteLine("Introduce tu nombre:");
+string nombre = Console.ReadLine();
+Console.WriteLine("Hola, " + nombre);
+```
+
+## Comandos para Crear y Ejecutar un Proyecto en Visual Studio Code
+### Crear un Nuevo Proyecto
+```bash
+dotnet new console -o NombreDelProyecto
+cd NombreDelProyecto
+```
+Crear proyecto: "dotnet new console -o **nombre** --framework net5.0"
+
+
+Esto crea un proyecto de consola en una carpeta llamada `NombreDelProyecto` y se posiciona dentro de ella.
+
+### Ejecutar el Proyecto
+```bash
+dotnet run
+```
+Este comando compila y ejecuta el proyecto.
+
+---
+Este es un resumen básico para comenzar a trabajar con C#. Recuerda practicar para afianzar estos conceptos.
+

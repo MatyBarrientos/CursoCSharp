@@ -1,0 +1,28 @@
+D:\Estudios\Curso Maxi Programa\Curso C# N1\Unidad 2\ejerciciosTres\obj\Debug\net8.0\ejerciciosTres.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudios\Curso Maxi Programa\Curso C# N1\Unidad 2\ejerciciosTres\obj\Debug\net8.0\ejerciciosTres.AssemblyInfoInputs.cache
+D:\Estudios\Curso Maxi Programa\Curso C# N1\Unidad 2\ejerciciosTres\obj\Debug\net8.0\ejerciciosTres.AssemblyInfo.cs
+D:\Estudios\Curso Maxi Programa\Curso C# N1\Unidad 2\ejerciciosTres\obj\Debug\net8.0\ejerciciosTres.csproj.CoreCompileInputs.cache
+D:\Estudios\Curso Maxi Programa\Curso C# N1\Unidad 2\ejerciciosTres\bin\Debug\net8.0\ejerciciosTres.exe
+D:\Estudios\Curso Maxi Programa\Curso C# N1\Unidad 2\ejerciciosTres\bin\Debug\net8.0\ejerciciosTres.deps.json
+D:\Estudios\Curso Maxi Programa\Curso C# N1\Unidad 2\ejerciciosTres\bin\Debug\net8.0\ejerciciosTres.runtimeconfig.json
+D:\Estudios\Curso Maxi Programa\Curso C# N1\Unidad 2\ejerciciosTres\bin\Debug\net8.0\ejerciciosTres.dll
+D:\Estudios\Curso Maxi Programa\Curso C# N1\Unidad 2\ejerciciosTres\bin\Debug\net8.0\ejerciciosTres.pdb
+D:\Estudios\Curso Maxi Programa\Curso C# N1\Unidad 2\ejerciciosTres\obj\Debug\net8.0\ejerciciosTres.dll
+D:\Estudios\Curso Maxi Programa\Curso C# N1\Unidad 2\ejerciciosTres\obj\Debug\net8.0\refint\ejerciciosTres.dll
+D:\Estudios\Curso Maxi Programa\Curso C# N1\Unidad 2\ejerciciosTres\obj\Debug\net8.0\ejerciciosTres.pdb
+D:\Estudios\Curso Maxi Programa\Curso C# N1\Unidad 2\ejerciciosTres\obj\Debug\net8.0\ejerciciosTres.genruntimeconfig.cache
+D:\Estudios\Curso Maxi Programa\Curso C# N1\Unidad 2\ejerciciosTres\obj\Debug\net8.0\ref\ejerciciosTres.dll
+D:\Estudios\Cursos MaxiPrograma\Curso C# N1\Unidad 2\ejerciciosTres\bin\Debug\net8.0\ejerciciosTres.exe
+D:\Estudios\Cursos MaxiPrograma\Curso C# N1\Unidad 2\ejerciciosTres\bin\Debug\net8.0\ejerciciosTres.deps.json
+D:\Estudios\Cursos MaxiPrograma\Curso C# N1\Unidad 2\ejerciciosTres\bin\Debug\net8.0\ejerciciosTres.runtimeconfig.json
+D:\Estudios\Cursos MaxiPrograma\Curso C# N1\Unidad 2\ejerciciosTres\bin\Debug\net8.0\ejerciciosTres.dll
+D:\Estudios\Cursos MaxiPrograma\Curso C# N1\Unidad 2\ejerciciosTres\bin\Debug\net8.0\ejerciciosTres.pdb
+D:\Estudios\Cursos MaxiPrograma\Curso C# N1\Unidad 2\ejerciciosTres\obj\Debug\net8.0\ejerciciosTres.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudios\Cursos MaxiPrograma\Curso C# N1\Unidad 2\ejerciciosTres\obj\Debug\net8.0\ejerciciosTres.AssemblyInfoInputs.cache
+D:\Estudios\Cursos MaxiPrograma\Curso C# N1\Unidad 2\ejerciciosTres\obj\Debug\net8.0\ejerciciosTres.AssemblyInfo.cs
+D:\Estudios\Cursos MaxiPrograma\Curso C# N1\Unidad 2\ejerciciosTres\obj\Debug\net8.0\ejerciciosTres.csproj.CoreCompileInputs.cache
+D:\Estudios\Cursos MaxiPrograma\Curso C# N1\Unidad 2\ejerciciosTres\obj\Debug\net8.0\ejerciciosTres.dll
+D:\Estudios\Cursos MaxiPrograma\Curso C# N1\Unidad 2\ejerciciosTres\obj\Debug\net8.0\refint\ejerciciosTres.dll
+D:\Estudios\Cursos MaxiPrograma\Curso C# N1\Unidad 2\ejerciciosTres\obj\Debug\net8.0\ejerciciosTres.pdb
+D:\Estudios\Cursos MaxiPrograma\Curso C# N1\Unidad 2\ejerciciosTres\obj\Debug\net8.0\ejerciciosTres.genruntimeconfig.cache
+D:\Estudios\Cursos MaxiPrograma\Curso C# N1\Unidad 2\ejerciciosTres\obj\Debug\net8.0\ref\ejerciciosTres.dll

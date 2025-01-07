@@ -1,0 +1,14 @@
+D:\Estudios\Curso Maxi Programa\Curso C# N1\Unidad 2\ejemploAcumuladores\bin\Debug\net8.0\ejemploAcumuladores.exe
+D:\Estudios\Curso Maxi Programa\Curso C# N1\Unidad 2\ejemploAcumuladores\bin\Debug\net8.0\ejemploAcumuladores.deps.json
+D:\Estudios\Curso Maxi Programa\Curso C# N1\Unidad 2\ejemploAcumuladores\bin\Debug\net8.0\ejemploAcumuladores.runtimeconfig.json
+D:\Estudios\Curso Maxi Programa\Curso C# N1\Unidad 2\ejemploAcumuladores\bin\Debug\net8.0\ejemploAcumuladores.dll
+D:\Estudios\Curso Maxi Programa\Curso C# N1\Unidad 2\ejemploAcumuladores\bin\Debug\net8.0\ejemploAcumuladores.pdb
+D:\Estudios\Curso Maxi Programa\Curso C# N1\Unidad 2\ejemploAcumuladores\obj\Debug\net8.0\ejemploAcumuladores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudios\Curso Maxi Programa\Curso C# N1\Unidad 2\ejemploAcumuladores\obj\Debug\net8.0\ejemploAcumuladores.AssemblyInfoInputs.cache
+D:\Estudios\Curso Maxi Programa\Curso C# N1\Unidad 2\ejemploAcumuladores\obj\Debug\net8.0\ejemploAcumuladores.AssemblyInfo.cs
+D:\Estudios\Curso Maxi Programa\Curso C# N1\Unidad 2\ejemploAcumuladores\obj\Debug\net8.0\ejemploAcumuladores.csproj.CoreCompileInputs.cache
+D:\Estudios\Curso Maxi Programa\Curso C# N1\Unidad 2\ejemploAcumuladores\obj\Debug\net8.0\ejemploAcumuladores.dll
+D:\Estudios\Curso Maxi Programa\Curso C# N1\Unidad 2\ejemploAcumuladores\obj\Debug\net8.0\refint\ejemploAcumuladores.dll
+D:\Estudios\Curso Maxi Programa\Curso C# N1\Unidad 2\ejemploAcumuladores\obj\Debug\net8.0\ejemploAcumuladores.pdb
+D:\Estudios\Curso Maxi Programa\Curso C# N1\Unidad 2\ejemploAcumuladores\obj\Debug\net8.0\ejemploAcumuladores.genruntimeconfig.cache
+D:\Estudios\Curso Maxi Programa\Curso C# N1\Unidad 2\ejemploAcumuladores\obj\Debug\net8.0\ref\ejemploAcumuladores.dll

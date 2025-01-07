@@ -1,0 +1,14 @@
+D:\Estudios\Curso Maxi Programa\Curso C# N1\programaUno\bin\Debug\net8.0\programaUno.exe
+D:\Estudios\Curso Maxi Programa\Curso C# N1\programaUno\bin\Debug\net8.0\programaUno.deps.json
+D:\Estudios\Curso Maxi Programa\Curso C# N1\programaUno\bin\Debug\net8.0\programaUno.runtimeconfig.json
+D:\Estudios\Curso Maxi Programa\Curso C# N1\programaUno\bin\Debug\net8.0\programaUno.dll
+D:\Estudios\Curso Maxi Programa\Curso C# N1\programaUno\bin\Debug\net8.0\programaUno.pdb
+D:\Estudios\Curso Maxi Programa\Curso C# N1\programaUno\obj\Debug\net8.0\programaUno.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudios\Curso Maxi Programa\Curso C# N1\programaUno\obj\Debug\net8.0\programaUno.AssemblyInfoInputs.cache
+D:\Estudios\Curso Maxi Programa\Curso C# N1\programaUno\obj\Debug\net8.0\programaUno.AssemblyInfo.cs
+D:\Estudios\Curso Maxi Programa\Curso C# N1\programaUno\obj\Debug\net8.0\programaUno.csproj.CoreCompileInputs.cache
+D:\Estudios\Curso Maxi Programa\Curso C# N1\programaUno\obj\Debug\net8.0\programaUno.dll
+D:\Estudios\Curso Maxi Programa\Curso C# N1\programaUno\obj\Debug\net8.0\refint\programaUno.dll
+D:\Estudios\Curso Maxi Programa\Curso C# N1\programaUno\obj\Debug\net8.0\programaUno.pdb
+D:\Estudios\Curso Maxi Programa\Curso C# N1\programaUno\obj\Debug\net8.0\programaUno.genruntimeconfig.cache
+D:\Estudios\Curso Maxi Programa\Curso C# N1\programaUno\obj\Debug\net8.0\ref\programaUno.dll
