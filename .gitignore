@@ -1,20 +1,13 @@
-# Ignorar archivos de GitHub
-*README
-README
+# Ignorar archivos relacionados con README
+README*
 *.README
-.README
-*.README.md
-README.md
-.snl
+*.README.*
+
+# Ignorar archivos de Visual Studio
 *.snl
 
-
-
-
-# Ignorar directorios de construcción
-
+# Ignorar directorios de configuración y construcción
 .vscode/
-vscode/
 bin/
 obj/
 
