@@ -96,12 +96,36 @@ class Program
         // Console.WriteLine("Con un porcentaje del: " + mayorPorcentajeImpar + "%");
         // Console.WriteLine("La cantidad de grupos con numeros en escalera es de: " + PuntoB);
 
-
-
-
         // 3. Hacer un programa para recibir listas de números positivos que están separadas entre sí por un cero.
         // El fin de la carga se notifica con un número negativo.
         // Luego mostrar cuántos números tiene cada lista.
+
+        int n = 1;
+        int grupo = 1;
+        while (n >= 0)
+        {
+            int contador = 0;
+            Console.Write("Ingrese un numero: ");
+            string entrada = Console.ReadLine();
+            int.TryParse(entrada, out n);
+
+
+            while (n != 0 && n > 0)
+            {
+                if (n > 0)
+                {
+                    contador++;
+                }
+
+                Console.Write("Ingrese un numero: ");
+                entrada = Console.ReadLine();
+                int.TryParse(entrada, out n);
+            }
+
+            Console.WriteLine("La cantidad de numeros positivos en el grupo nro " + grupo + " es de " + contador);
+            grupo++;
+        }
+
 
     }
 }
