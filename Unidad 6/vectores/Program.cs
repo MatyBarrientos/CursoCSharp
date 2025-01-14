@@ -102,6 +102,52 @@ class Program
         // b) Los números de artículos que no registraron ventas.
         // c) Cuantas unidades se vendieron del número de artículo 10.
 
+        Console.WriteLine("Ejercicio nro 4");
+        int[] ventas = new int[15];
+        int articulo, cantidad, mayor = 0, pos = 0;
+        string entrada;
+        Console.Write("Ingrese el nro de articulo que desea registrar la venta: ");
+        entrada = Console.ReadLine();
+        int.TryParse(entrada, out articulo);
+        Console.Write("Ingrese la cantidad de ese articulo: ");
+        entrada = Console.ReadLine();
+        int.TryParse(entrada, out cantidad);
+        while (articulo != 0)
+        {
+            ventas[articulo - 1] += cantidad;
+            Console.Write("Ingrese el nro de articulo que desea registrar la venta: ");
+            entrada = Console.ReadLine();
+            int.TryParse(entrada, out articulo);
+            Console.Write("Ingrese la cantidad de ese articulo: ");
+            entrada = Console.ReadLine();
+            int.TryParse(entrada, out cantidad);
+        }
+
+        for (int i = 0; i < 15; i++)
+        {
+            if (i == 0)
+            {
+                mayor = ventas[i];
+                pos = i;
+            }
+            else if (ventas[i] > mayor)
+            {
+                mayor = ventas[i];
+                pos = i;
+            }
+        }
+        Console.WriteLine("El articulo que más se vendio fue el nro: " + (pos + 1) + ". Con un total de " + mayor);
+
+        for (int j = 0; j < 15; j++)
+        {
+            if (ventas[j] == 0)
+            {
+                Console.WriteLine("El articulo " + (j + 1) + " no tuvo ventas");
+            }
+        }
+
+        Console.WriteLine("Del articulo 10 se vendieron en total " + ventas[9] + " unidades");
+
 
     }
 }
