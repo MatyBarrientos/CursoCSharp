@@ -4,7 +4,7 @@ README*
 *.README.*
 
 # Ignorar archivos de Visual Studio
-*.snl
+*.sln
 
 # Ignorar directorios de configuración y construcción
 .vscode/
