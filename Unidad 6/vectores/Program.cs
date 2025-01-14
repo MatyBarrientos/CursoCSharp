@@ -145,9 +145,6 @@ class Program
                 Console.WriteLine("El articulo " + (j + 1) + " no tuvo ventas");
             }
         }
-
         Console.WriteLine("Del articulo 10 se vendieron en total " + ventas[9] + " unidades");
-
-
     }
 }
